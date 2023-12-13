@@ -1,0 +1,13 @@
+D:\btect fpt\semester 2\databse\asm\ASM 2\online library\online library\bin\Debug\online library.exe.config
+D:\btect fpt\semester 2\databse\asm\ASM 2\online library\online library\bin\Debug\online library.exe
+D:\btect fpt\semester 2\databse\asm\ASM 2\online library\online library\bin\Debug\online library.pdb
+D:\btect fpt\semester 2\databse\asm\ASM 2\online library\online library\obj\Debug\online library.csproj.AssemblyReference.cache
+D:\btect fpt\semester 2\databse\asm\ASM 2\online library\online library\obj\Debug\online_library.FormLogIn.resources
+D:\btect fpt\semester 2\databse\asm\ASM 2\online library\online library\obj\Debug\online_library.Properties.Resources.resources
+D:\btect fpt\semester 2\databse\asm\ASM 2\online library\online library\obj\Debug\online library.csproj.GenerateResource.cache
+D:\btect fpt\semester 2\databse\asm\ASM 2\online library\online library\obj\Debug\online library.csproj.CoreCompileInputs.cache
+D:\btect fpt\semester 2\databse\asm\ASM 2\online library\online library\obj\Debug\online library.exe
+D:\btect fpt\semester 2\databse\asm\ASM 2\online library\online library\obj\Debug\online library.pdb
+D:\btect fpt\semester 2\databse\asm\ASM 2\online library\online library\obj\Debug\online_library.Admin.resources
+D:\btect fpt\semester 2\databse\asm\ASM 2\online library\online library\obj\Debug\online_library.User.resources
+D:\btect fpt\semester 2\databse\asm\ASM 2\online library\online library\obj\Debug\online_library.AccountManagement.resources
